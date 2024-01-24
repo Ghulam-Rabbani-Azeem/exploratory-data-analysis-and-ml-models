@@ -1,5 +1,5 @@
-#Time Series Analysis of Avocado Prices with Prophet#
-#In this code, I have trained a single forecasting model using the Prophet library, which is a popular tool for time series forecasting developed by Facebook. The model is trained to #forecast avocado prices based on historical data.
+#Time Series Analysis of Avocado Prices with Prophet
+##In this code, I have trained a single forecasting model using the Prophet library, which is a popular tool for time series forecasting developed by Facebook. The model is trained to #forecast avocado prices based on historical data.
 
 #The key steps involved in training this model are:
 
